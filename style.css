@@ -5,6 +5,8 @@
 
 body {
   background-color: darkblue;
+  padding: 1rem auto;
+  margin: 2rem 2rem auto;
 }
 
 h1 {
@@ -12,17 +14,17 @@ h1 {
   justify-content: center;
   padding: 2rem;
   font-size: 3rem;
-  color: red;
+  color: rosybrown;
 }
 
 h2 {
-  color: royalblue;
+  color: rosybrown;
   display: flex;
   font-size: 1.5rem;
 }
 
 h3 {
-  color: royalblue;
+  color: rosybrown;
   display: flex;
   font-size: 1.5rem;
 }
